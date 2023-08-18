@@ -1,4 +1,4 @@
-### Olá! Eu sou Richard Matheus / Hi! I am Richard Matheus 🖐️
+### Olá! Eu sou o Richard Matheus / Hi! I'm Richard Matheus 🖐️
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](richardmatheusf80@gmail.com)
 [![YOUTUBE](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCWN_G1VmIP2LIFn2_2I_7ZA)
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/richard.mttw/)
