@@ -4,8 +4,6 @@
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/richard.mttw/)
 [![TWITCH](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white
 )](https://www.twitch.tv/richardmatthew80)
-[![TIKTOK](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white
-)](https://www.tiktok.com/@richardmatthewf)<br>
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-matheus-farias-440626235)
 [![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 )]()
