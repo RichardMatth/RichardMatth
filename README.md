@@ -46,5 +46,8 @@
 <br>
 
 ### CERTIFICADOS
+<div>
+  <img align="center" alt="HTML BÁSICO" src="https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateDialog.aspx?QXnFIAAicw8eP9DiCht4uNtNm%2b5HCWWF">
+</div>
 
 Apaixonado por tecnologia. <3
