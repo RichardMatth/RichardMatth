@@ -46,6 +46,7 @@
 <br>
 
 ### CERTIFICADOS
-[![html avançado certificado](https://i.im.ge/2023/09/26/N0HoA4.html-avancado-certificado.th.jpg)](https://im.ge/i/N0HoA4)
+[![HTML BÁSICO](https://github.com/RichardMatth/RichardMatth/blob/0b04b8326b1753f1a5de0c0cb1bb9f21950b9798/Certidficado%20HTML%20B%C3%A1sico.png)
+[![HTML AVANÇADO](https://github.com/RichardMatth/RichardMatth/blob/0b04b8326b1753f1a5de0c0cb1bb9f21950b9798/html%20avan%C3%A7ado%20certificado.jpg)
 
 Apaixonado por tecnologia. <3
