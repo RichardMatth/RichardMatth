@@ -31,16 +31,4 @@
   <img align="center" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 </div>
 
-<br>
-
-### CERTIFICADOS
-<div>
-<h4>HTML Básicos</h4>
-<img src="https://github.com/RichardMatth/RichardMatth/blob/0b04b8326b1753f1a5de0c0cb1bb9f21950b9798/Certidficado%20HTML%20B%C3%A1sico.png" alt="HTML BÁSICO" width="250" height="175">
-<br>
-<h4>HTML Avançado</h4>
-<img src="https://github.com/RichardMatth/RichardMatth/blob/0b04b8326b1753f1a5de0c0cb1bb9f21950b9798/html%20avan%C3%A7ado%20certificado.jpg" alt="HTML BÁSICO" width="250" height="175">
-  
-</div>
-
 Apaixonado por tecnologia. <3
