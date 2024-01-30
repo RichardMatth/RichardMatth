@@ -6,8 +6,8 @@
 [![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 )]()
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardMatth&show_icons=true&theme=dracula&count_private=false)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardMatth&show_icons=true&theme=dracula&count_private=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 #### Habilidades
 <div style="display: inline_block">
