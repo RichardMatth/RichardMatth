@@ -6,8 +6,8 @@
 [![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 )]()
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardMatth&show_icons=true&theme=dracula&count_private=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/username=RichardMatth&show&theme=dark&&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardMatth&show_icons=true&theme=dracula&count_private=false)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/api?username=RichardMatth&show&theme=dark&&layout=compact)
 
 #### Habilidades
 <div style="display: inline_block">
