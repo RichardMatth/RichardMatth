@@ -1,9 +1,4 @@
 ### Olá! Bem-vindo(a) ao meu perfil 🖐️ <br>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="56" height="56">
-  <img align="center" src= width="56" height="56">
-    <img align="center" src= width="56" height="56">
-      <img align="center" src= width="56" height="56">
-    
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardMatth&show_icons=true&theme=tokyonight&count_private=false)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardMatth&layout=compact&theme=tokyonight)
