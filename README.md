@@ -29,7 +29,7 @@
 <a href="https://apps.univesp.br/palavra-puxa-palavra/">Palavra-puxa-palavra</a>
 <br>
 
-Curso Banco de dados (grátis): <a href="https://www.ev.org.br/trilhas-de-conhecimento/banco-de-dados">Link</a><b>
+Curso Banco de dados (grátis): <a href="https://www.ev.org.br/trilhas-de-conhecimento/banco-de-dados">Link</a><br>
 Curso de Python (grátis): <a href="https://www.ev.org.br/trilhas-de-conhecimento/linguagem-de-programacao-python">Link</a>
 
 Apaixonado por tecnologia. 💓
