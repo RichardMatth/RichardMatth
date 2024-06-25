@@ -2,6 +2,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardMatth&show_icons=true&theme=tokyonight&count_private=false)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardMatth&layout=compact&theme=tokyonight)
+z![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/RichardMatth/github-readme-stats)
 
 #### Habilidades
 <div style="display: inline_block">
