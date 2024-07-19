@@ -8,12 +8,10 @@
   <img align="center" alt="html5" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="24" height="24"/>
   <img align="center" alt="css" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width="24" height="24"/>
   <img align="center" alt="js" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="24" height="24"/>
+  <img align="center" alt="nodejs" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" width="24" height="24"/>
   <img align="center" alt="JAVA" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" width="24" height="24"/>
-  <img align="center" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24"/>
-  <img align="center" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="24" height="24">
-  <img align="center" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="24" height="24"/>
-  <img align="center" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="24" height="24"/>
-  <img align="center" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" height="24"/>
+  <img align="center" alt="Python" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="24" height="24"/>
+  <img align="center" alt="Git" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" width="24" height="24"/>
 </div><br/>
 
 ### OS
