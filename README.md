@@ -1,40 +1,35 @@
-### Olá! Bem-vindo(a) ao meu perfil 🖐️ <br>
-<br>
-<p>[BR]
-  <br>
+## Olá! Bem-vindo(a) ao meu perfil 🖐️
+
+### Sobre mim
 Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por Java e determinado a construir uma base sólida até o fim da faculdade para empreender como desenvolvedor. 🌟👨‍💻
-<br><br>
-[ENG]
-  <br>
-  I'm a Systems Analysis and Development student, passionate about Java and determined to build a solid foundation by graduation to venture into entrepreneurship as a developer. 🌟👨‍💻</p>
-<br>
-<h5>Skill</h5>
+
+### Skills
 <div style="display: inline_block">
-  <img align="center" alt="html5" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="28" height="28"/>
-  <img align="center" alt="css" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width="28" height="28"/>
-  <img align="center" alt="js" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="28" height="28"/>
-  <img align="center" alt="nodejs" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" width="28" height="28"/>
-  <img align="center" alt="JAVA" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" width="28" height="28"/>
+  <img align="center" alt="HTML5" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="28" height="28"/>
+  <img align="center" alt="CSS" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width="28" height="28"/>
+  <img align="center" alt="JavaScript" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="28" height="28"/>
+  <img align="center" alt="Node.js" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" width="28" height="28"/>
+  <img align="center" alt="Java" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" width="28" height="28"/>
   <img align="center" alt="Python" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="28" height="28"/>
   <img align="center" alt="Git" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" width="28" height="28"/>
-</div><br/>
+</div>
 
-<h5>OS</h5>
+### Sistemas Operacionais
 <div style="display: inline_block">
   <img align="center" alt="Linux" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" width="28" height="28"/>
   <img align="center" alt="Windows" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg" width="28" height="28"/>
 </div>
 
-<br>
-<img type="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardMatth&layout=compact&theme=tokyonight" width="300" height="140"> 
-<br>
+### Estatísticas do GitHub
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardMatth&layout=compact&theme=tokyonight" alt="Top Langs" width="300" height="140"> 
 
-<h5>Cursos gratuítos</h5>
-<a href="https://apps.univesp.br/enem-escreva-pra-ver/">Redação para o Enem</a><br>
-<a href="https://apps.univesp.br/palavra-puxa-palavra/">Palavra-puxa-palavra</a>
-<br>
-<p>Curso Banco de dados (grátis):<a href="https://www.ev.org.br/trilhas-de-conhecimento/banco-de-dados">Link</a><br></p>
-<p>Curso de Python (grátis):<a href="https://www.ev.org.br/trilhas-de-conhecimento/linguagem-de-programacao-python">Link</a></p>
-<p>Cursos diversos (grátis):<a href="https://ibqp-ava.com/loja_virtual/cursos.php?id=INFORM%C3%81TICA%20E%20TECNOLOGIA">Link</a></p>
+### Cursos Gratuitos
+- [Redação para o Enem](https://apps.univesp.br/enem-escreva-pra-ver/)
+- [Palavra-puxa-palavra](https://apps.univesp.br/palavra-puxa-palavra)
+- [Curso de Banco de Dados (grátis)](https://www.ev.org.br/trilhas-de-conhecimento/banco-de-dados)
+- [Curso de Python (grátis)](https://www.ev.org.br/trilhas-de-conhecimento/linguagem-de-programacao-python)
+- [Cursos diversos (grátis)](https://ibqp-ava.com/loja_virtual/cursos.php?id=INFORM%C3%81TICA%20E%20TECNOLOGIA)
+
+---
 
 Apaixonado por tecnologia. 💓
