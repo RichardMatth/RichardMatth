@@ -5,13 +5,13 @@
 
 #### Habilidades
 <div style="display: inline_block">
-  <img align="center" alt="html5" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="24" height="24"/>
-  <img align="center" alt="css" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width="24" height="24"/>
-  <img align="center" alt="js" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="24" height="24"/>
-  <img align="center" alt="nodejs" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" width="24" height="24"/>
-  <img align="center" alt="JAVA" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" width="24" height="24"/>
-  <img align="center" alt="Python" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="24" height="24"/>
-  <img align="center" alt="Git" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" width="24" height="24"/>
+  <img align="center" alt="html5" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="28" height="28"/>
+  <img align="center" alt="css" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width="28" height="28"/>
+  <img align="center" alt="js" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="28" height="28"/>
+  <img align="center" alt="nodejs" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" width="28" height="28"/>
+  <img align="center" alt="JAVA" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" width="28" height="28"/>
+  <img align="center" alt="Python" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="28" height="28"/>
+  <img align="center" alt="Git" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" width="28" height="28"/>
 </div><br/>
 
 ### OS
