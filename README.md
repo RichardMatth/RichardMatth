@@ -2,7 +2,7 @@
 <br>
 <p>[BR]<br>
 Você é um estudante de Análise e Desenvolvimento de Sistemas focado em Java, buscando construir uma sólida bagagem até o fim da faculdade para empreender como desenvolvedor. 🌟👨‍💻
-<br>
+<br><br>
 [ENG]<br>You're a Systems Analysis and Development student diving deep into Java, aiming to build a strong skill set by graduation to venture into entrepreneurship as a developer. 🌟👨‍💻</p>
 <br>
 <h5>Skill</h5>
