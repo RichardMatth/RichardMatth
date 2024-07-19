@@ -1,6 +1,6 @@
 ### Olá! Bem-vindo(a) ao meu perfil 🖐️ <br>
 
-##### Skills
+<h5>Skill</h5>
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="28" height="28"/>
   <img align="center" alt="css" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width="28" height="28"/>
@@ -11,14 +11,14 @@
   <img align="center" alt="Git" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" width="28" height="28"/>
 </div><br/>
 
-#### OS
+<h5>OS</h5>
 <div style="display: inline_block">
   <img align="center" alt="Linux" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" width="28" height="28"/>
   <img align="center" alt="Windows" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg" width="28" height="28"/>
 </div>
 <br>
 
-### Material de estudo
+<h5>Cursos gratuítos</h5>
 
 <a href="https://apps.univesp.br/enem-escreva-pra-ver/">Redação para o Enem</a><br>
 <a href="https://apps.univesp.br/palavra-puxa-palavra/">Palavra-puxa-palavra</a>
@@ -29,6 +29,8 @@
 <p>Cursos diversos (grátis):<a href="https://ibqp-ava.com/loja_virtual/cursos.php?id=INFORM%C3%81TICA%20E%20TECNOLOGIA">Link</a></p>
 
 Apaixonado por tecnologia. 💓
-<br>
+
+<br><br>
+
 <img type="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardMatth&layout=compact&theme=tokyonight" width="350" height="160">
 <img type="Github status" src="https://github-readme-stats.vercel.app/api?username=RichardMatth&show_icons=true&theme=tokyonight&count_private=false" width="350" height="160">
