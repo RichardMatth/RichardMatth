@@ -16,9 +16,8 @@
 
 #### OS
 <div style="display: inline_block">
-  <img align="center" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="24" height="24"/>
-  <img align="center" alt="Windows" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="24" height="24"/>
-  <img align="center" alt="Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="24" height="24" />
+  <img align="center" alt="Linux" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" width="28" height="28"/>
+  <img align="center" alt="Windows" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg" width="28" height="28"/>
 </div>
 <br>
 
