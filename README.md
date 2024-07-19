@@ -3,7 +3,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardMatth&show_icons=true&theme=tokyonight&count_private=false)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardMatth&layout=compact&theme=tokyonight)
 
-#### Habilidades
+##### Skills
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="28" height="28"/>
   <img align="center" alt="css" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width="28" height="28"/>
@@ -14,7 +14,7 @@
   <img align="center" alt="Git" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" width="28" height="28"/>
 </div><br/>
 
-### OS
+#### System OS
 <div style="display: inline_block">
   <img align="center" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="24" height="24"/>
   <img align="center" alt="Windows" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="24" height="24"/>
