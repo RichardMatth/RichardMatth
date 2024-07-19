@@ -1,5 +1,10 @@
 ### Olá! Bem-vindo(a) ao meu perfil 🖐️ <br>
-
+<br>
+<p>[BR]
+Você é um estudante de Análise e Desenvolvimento de Sistemas focado em Java, buscando construir uma sólida bagagem até o fim da faculdade para empreender como desenvolvedor. 🌟👨‍💻
+<br>
+[ENG]You're a Systems Analysis and Development student diving deep into Java, aiming to build a strong skill set by graduation to venture into entrepreneurship as a developer. 🌟👨‍💻</p>
+<br>
 <h5>Skill</h5>
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="28" height="28"/>
