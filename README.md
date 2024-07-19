@@ -29,6 +29,5 @@
 <p>Cursos diversos (grátis):<a href="https://ibqp-ava.com/loja_virtual/cursos.php?id=INFORM%C3%81TICA%20E%20TECNOLOGIA">Link</a></p>
 
 Apaixonado por tecnologia. 💓
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardMatth&layout=compact&theme=tokyonight)
+<img type="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardMatth&layout=compact&theme=tokyonight" width="350" height="140">
 <img type="Github status" src="https://github-readme-stats.vercel.app/api?username=RichardMatth&show_icons=true&theme=tokyonight&count_private=false" width="350" height="140">
