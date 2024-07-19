@@ -1,8 +1,5 @@
 ### Olá! Bem-vindo(a) ao meu perfil 🖐️ <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardMatth&show_icons=true&theme=tokyonight&count_private=false)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardMatth&layout=compact&theme=tokyonight)
-
 ##### Skills
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="28" height="28"/>
@@ -32,3 +29,7 @@
 <p>Cursos diversos (grátis):<a href="https://ibqp-ava.com/loja_virtual/cursos.php?id=INFORM%C3%81TICA%20E%20TECNOLOGIA">Link</a></p>
 
 Apaixonado por tecnologia. 💓
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardMatth&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardMatth&show_icons=true&theme=tokyonight&count_private=false)<br>
+
