@@ -6,9 +6,9 @@
 #### Habilidades
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="24" height="24"/>
-  <img align="center" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24" height="24"/>
-  <img align="center" alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24"/>
-  <img align="center" alt="JAVA" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Light.svg" width="24" height="24"/>
+  <img align="center" alt="css" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width="24" height="24"/>
+  <img align="center" alt="js" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="24" height="24"/>
+  <img align="center" alt="JAVA" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" width="24" height="24"/>
   <img align="center" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24"/>
   <img align="center" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="24" height="24">
   <img align="center" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="24" height="24"/>
