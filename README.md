@@ -30,7 +30,6 @@
 
 Apaixonado por tecnologia. 💓
 
-<br><br>
+<br>
 
 <img type="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardMatth&layout=compact&theme=tokyonight" width="300" height="140"> 
-<img type="Github status" src="https://github-readme-stats.vercel.app/api?username=RichardMatth&show_icons=true&theme=tokyonight&count_private=false" width="300" height="140">
