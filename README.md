@@ -28,7 +28,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por Java e d
 - [Palavra-puxa-palavra](https://apps.univesp.br/palavra-puxa-palavra)
 - [Curso de Banco de Dados (grátis)](https://www.ev.org.br/trilhas-de-conhecimento/banco-de-dados)
 - [Curso de Python (grátis)](https://www.ev.org.br/trilhas-de-conhecimento/linguagem-de-programacao-python)
-- [Cursos diversos (grátis)](https://ibqp-ava.com/loja_virtual/cursos.php?id=INFORM%C3%81TICA%20E%20TECNOLOGIA)
+- [Cursos diversos](https://ibqp-ava.com/loja_virtual/cursos.php?id=INFORM%C3%81TICA%20E%20TECNOLOGIA)
 
 ---
 
