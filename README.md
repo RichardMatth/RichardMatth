@@ -3,6 +3,9 @@
 ### Sobre mim
 Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por computadores e determinado a construir uma base sólida até o fim da minha graduação a fim de me tornar o profissional que eu almejo. 🌟👨‍💻
 
+#
+
+
 ### Skills
 <div style="display: inline_block">
   <img align="center" alt="HTML5" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="28" height="28"/>
