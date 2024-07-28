@@ -36,7 +36,3 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por computad
 ##
 
 - [Cursos de JAVA, Estrutura de dados e Algoritmo (grátis)](https://loiane.training/)
-
-##
-
-Apaixonado por tecnologia. 💓
