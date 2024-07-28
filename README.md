@@ -20,7 +20,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por computad
   <img align="center" alt="Windows" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg" width="28" height="28"/>
 </div>
 
-### Estatísticas do GitHub
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardMatth&layout=compact&theme=tokyonight" alt="Top Langs" width="300" height="140"> 
 
 ### Cursos Gratuitos
