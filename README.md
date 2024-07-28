@@ -21,7 +21,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por computad
 </div>
 
 ##
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardMatth&layout=compact&theme=tokyonight" alt="Top Langs" width="300" height="140"> 
+
 ##
 
 ### Cursos Gratuitos
