@@ -20,9 +20,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por computad
   <img align="center" alt="Windows" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg" width="28" height="28"/>
 </div>
 
-#
+##
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardMatth&layout=compact&theme=tokyonight" alt="Top Langs" width="300" height="140"> 
-#
+##
 
 ### Cursos Gratuitos
 - [Redação para o Enem](https://apps.univesp.br/enem-escreva-pra-ver/)
@@ -31,10 +31,10 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por computad
 - [Curso de Python (grátis)](https://www.ev.org.br/trilhas-de-conhecimento/linguagem-de-programacao-python)
 - [Cursos diversos](https://ibqp-ava.com/loja_virtual/cursos.php?id=INFORM%C3%81TICA%20E%20TECNOLOGIA)
 
---
+##
 
 - [Cursos de JAVA, Estrutura de dados e Algoritmo (grátis)](https://loiane.training/)
 
---
+##
 
 Apaixonado por tecnologia. 💓
