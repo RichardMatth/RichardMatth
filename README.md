@@ -1,7 +1,7 @@
 ## Olá! Bem-vindo(a) ao meu perfil 🖐️
 
 ### Sobre mim
-Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por Java e determinado a construir uma base sólida até o fim da faculdade para empreender como desenvolvedor. 🌟👨‍💻
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por computadores e determinado a construir uma base sólida até o fim da faculdade para me tornar o profissional que eu almejo ser. 🌟👨‍💻
 
 ### Skills
 <div style="display: inline_block">
