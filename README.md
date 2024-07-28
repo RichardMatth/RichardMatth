@@ -31,10 +31,10 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por computad
 - [Curso de Python (grátis)](https://www.ev.org.br/trilhas-de-conhecimento/linguagem-de-programacao-python)
 - [Cursos diversos](https://ibqp-ava.com/loja_virtual/cursos.php?id=INFORM%C3%81TICA%20E%20TECNOLOGIA)
 
--
+--
 
 - [Cursos de JAVA, Estrutura de dados e Algoritmo (grátis)](https://loiane.training/)
 
--
+--
 
 Apaixonado por tecnologia. 💓
