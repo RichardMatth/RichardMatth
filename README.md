@@ -29,13 +29,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por computad
 
 ##
 
-### Foco no ENEM
-- [Redação para o Enem](https://apps.univesp.br/enem-escreva-pra-ver/)
-- [Palavra-puxa-palavra](https://apps.univesp.br/palavra-puxa-palavra)
 
-##
-
-### Cursos Gratuitos
+### Cursos Gratuitos 📌
 - [Curso de Banco de Dados (grátis)](https://www.ev.org.br/trilhas-de-conhecimento/banco-de-dados)
 - [Curso de Python (grátis)](https://www.ev.org.br/trilhas-de-conhecimento/linguagem-de-programacao-python)
 - [Cursos diversos](https://ibqp-ava.com/loja_virtual/cursos.php?id=INFORM%C3%81TICA%20E%20TECNOLOGIA)
@@ -43,3 +38,11 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por computad
 ##
 
 - [Cursos de JAVA, Estrutura de dados e Algoritmo (grátis)](https://loiane.training/)
+
+##
+
+### ENEM 📚
+- [Redação para o Enem](https://apps.univesp.br/enem-escreva-pra-ver/)
+- [Palavra-puxa-palavra](https://apps.univesp.br/palavra-puxa-palavra)
+
+##
