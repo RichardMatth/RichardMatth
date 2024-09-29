@@ -6,7 +6,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por computad
 #
 
 
-### Skills
+### Linguagens
 <div style="display: inline_block">
   <img align="center" alt="HTML5" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="28" height="28"/>
   <img align="center" alt="CSS" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width="28" height="28"/>
@@ -16,6 +16,21 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por computad
   <img align="center" alt="Python" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="28" height="28"/>
   <img align="center" alt="Git" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" width="28" height="28"/>
 </div>
+
+### Frameworks
+NodeJS
+Angular
+React
+Spring boot
+
+
+
+### Banco de Dados
+MySQL
+Oracle
+PostgreSQL
+IBM Db2	
+
 
 ### Sistemas Operacionais
 <div style="display: inline_block">
