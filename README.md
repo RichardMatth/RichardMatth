@@ -9,6 +9,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por computad
 ### Linguagens
 <div style="display: inline_block">
   <img class="tooltip" align="center" alt="HTML5" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="28" height="28" title="HTML5"/>
+    <span class="tooltiptext">HTML5</span>
+</div>
   <img align="center" alt="CSS" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width="28" height="28"/>
   <img align="center" alt="JavaScript" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="28" height="28"/>
   <img align="center" alt="Java" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" width="28" height="28"/>
