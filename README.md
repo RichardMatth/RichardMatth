@@ -17,7 +17,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por computad
 
 ### Frameworks
 <div>
-   <img align="center" alt="VueJS" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VueJS-Dark.svg"/>
+   <img align="center" alt="VueJS" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VueJS-Dark.svg" width="28" height="28"/>
   <img align="center" alt="React" src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" width="28" height="28"/>
   <img align="center" alt="Spring" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Spring-Dark.svg" width="28" height="28"/>
   <img align="center" alt="Node.js" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" width="28" height="28"/>
