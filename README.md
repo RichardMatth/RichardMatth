@@ -8,7 +8,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por computad
 
 ### Linguagens
 <div style="display: inline_block">
-  <img align="center" alt="HTML5" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="28" height="28" title="HTML5"/>
+  <img class="tooltip" align="center" alt="HTML5" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="28" height="28" title="HTML5"/>
   <img align="center" alt="CSS" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width="28" height="28"/>
   <img align="center" alt="JavaScript" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="28" height="28"/>
   <img align="center" alt="Java" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" width="28" height="28"/>
@@ -35,6 +35,38 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por computad
   <img align="center" alt="Linux" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" width="28" height="28"/>
   <img align="center" alt="Windows" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg" width="28" height="28"/>
 </div>
+
+<style>
+  <style>
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px; /* Ajuste a largura conforme necessário */
+  background-color: #333; /* Cor de fundo similar ao GitHub */
+  color: #fff; /* Texto branco */
+  text-align: center;
+  border-radius: 5px; /* Bordas arredondadas */
+  border: 1px solid #fff; /* Bordas finas e brancas */
+  padding: 5px;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%; /* Ajuste a posição */
+  left: 50%;
+  margin-left: -60px; /* Centraliza a tooltip */
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+</style>
+</style>
 
 ##
 
