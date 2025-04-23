@@ -40,8 +40,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por computad
 <div style="display: inline_block">
   <img align="center" alt="Photoshop" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="28" height="28"/>
   <img align="center" alt="Godot" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Godot-Dark.svg" width="28" height="28"/>
-    <img align="center" alt="Blender" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg" width="28" height="28"/>
-        <img align="center" alt="WordPress" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg" width="28" height="28"/>
+  <img align="center" alt="Blender" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg" width="28" height="28"/>
+  <img align="center" alt="WordPress" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" width="28" height="28"/>
 
 
 </div>
