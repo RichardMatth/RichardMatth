@@ -58,6 +58,10 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por computad
 - [Curso de Banco de Dados (grátis)](https://www.ev.org.br/trilhas-de-conhecimento/banco-de-dados)
 - [Curso de Python (grátis)](https://www.ev.org.br/trilhas-de-conhecimento/linguagem-de-programacao-python)
 - [Cursos diversos](https://ibqp-ava.com/loja_virtual/cursos.php?id=INFORM%C3%81TICA%20E%20TECNOLOGIA)
+- [Cursos diversos](https://ibqp-ava.com/loja_virtual/cursos.php?id=INFORM%C3%81TICA%20E%20TECNOLOGIA)
+- [Plataforma aprenda mais (MEC)](https://aprendamais.mec.gov.br/)
+- [Escola virtual GOV](https://www.escolavirtual.gov.br/)
+
 
 ##
 
