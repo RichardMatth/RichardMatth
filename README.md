@@ -1,7 +1,7 @@
 ## Olá! Bem-vindo(a) ao meu perfil 🖐️
 
 ### Sobre mim
-Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por computadores e determinado a construir uma base sólida até o fim da minha graduação a fim de me tornar o profissional que eu almejo. 🌟👨‍💻
+Tenho formação prática e rápida voltada ao mercado (ADS), mas pretendo me aprofundar com Ciência da Computação para expandir minha visão e minha capacidade técnica. Atuo profissionalmente enquanto continuo estudando, porque quero ser o melhor naquilo que faço. 🌟👨‍💻
 
 #
 
