@@ -61,6 +61,7 @@ Tenho formação prática e rápida voltada ao mercado (ADS), mas pretendo me ap
 - [Cursos diversos](https://ibqp-ava.com/loja_virtual/cursos.php?id=INFORM%C3%81TICA%20E%20TECNOLOGIA)
 - [Plataforma aprenda mais (MEC)](https://aprendamais.mec.gov.br/)
 - [Escola virtual GOV](https://www.escolavirtual.gov.br/)
+- [Curso em vídeo](https://www.cursoemvideo.com/)
 
 
 ##
