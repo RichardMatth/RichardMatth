@@ -1,7 +1,7 @@
 ## Olá! Bem-vindo(a) ao meu perfil 🖐️
 
 ### Sobre mim
-Tenho formação prática e rápida voltada ao mercado (ADS), mas pretendo me aprofundar com Ciência da Computação para expandir minha visão e minha capacidade técnica. Atuo profissionalmente enquanto continuo estudando, porque quero ser o melhor naquilo que faço. 🌟👨‍💻
+Desenvolvedor em formação com foco em engenharia de software, arquitetura e IA aplicada. Atualmente construindo projetos práticos com Python, TypeScript e JS, aplicando princípios de clean code, modularidade e boas práticas de design. Busco estágio/júnior para crescer em ambientes de alta responsabilidade técnica.
 
 #
 
@@ -66,7 +66,7 @@ Tenho formação prática e rápida voltada ao mercado (ADS), mas pretendo me ap
 
 ##
 
-- [Cursos de JAVA, Estrutura de dados e Algoritmo (grátis)](https://loiane.training/)
+- [Cursos de JAVA, Estrutura de dados e Algoritmo (RECOMENDO FORTEMENTE)](https://loiane.training/)
 
 ##
 
