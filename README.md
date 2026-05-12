@@ -1,32 +1,25 @@
-# [Seu Nome] | Software Development & Systems Analysis
+# [Seu Nome]
 
-Desenvolvedor focado em lógica de backend, padrões arquiteturais e automação. Atualmente, curso Análise e Desenvolvimento de Sistemas (5º período) e Ciência da Computação, unindo o rigor acadêmico à prática técnica de campo.
+Desenvolvedor focado em lógica de backend e arquitetura de sistemas. Atualmente cursando Ciência da Computação e Análise e Desenvolvimento de Sistemas. 
 
-### 🛠️ Abordagem Técnica
-Minha base é construída sobre **Python** e **Java**, com foco em código limpo e modularidade. No ecossistema web, priorizo o **JavaScript Vanilla** para entender o funcionamento fundamental da engine antes de aplicar frameworks.
+Minha prática profissional é pautada pelo equilíbrio entre a precisão técnica da engenharia e a criatividade da escrita. Além do código, dedico-me à produção literária, explorando a intersecção entre tecnologia e vivência humana.
 
-- **Backend & Lógica:** Construção de APIs e automações.
-- **Simulação & Jogos:** Experiência com **Pygame** para lógica de sistemas e física básica.
-- **Arquitetura:** Interesse profundo em Micro-SaaS e modelos de negócios escaláveis.
-
----
-
-### 🚀 Projetos em Construção (Foco em Ação)
-*Não apenas código, mas produtos.*
-
-1. **Micro-SaaS Identity:** Ferramenta de identidade digital e portfólio focada em conversão e design minimalista.
-2. **Poesia & Algoritmo:** Autor de uma coletânea de poesias que explora a intersecção entre a vivência bruta e a sensibilidade humana (em fase de publicação no KDP).
-3. **Desafios de Engenharia:** Repositório dedicado a padrões de projeto (Design Patterns) aplicados em Java e Python.
+### Stack Técnica
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Pygame](https://img.shields.io/badge/Pygame-35495E?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-### 💼 Trajetória & Resiliência
-Minha maturidade profissional foi forjada em ambientes de alta responsabilidade. Atuo como **agente de campo no setor de saneamento**, lidando com procedimentos técnicos críticos e relatórios precisos. Essa experiência me deu a disciplina necessária para resolver problemas sob pressão e a atenção aos detalhes que aplico no meu código.
+### No que estou trabalhando
+* **Sistemas de Identidade Digital:** Desenvolvimento de soluções de portfólio escaláveis (Micro-SaaS).
+* **Engenharia de Backend:** Aplicação de padrões de projeto e automação de processos.
+* **Literatura Contemporânea:** Finalizando coletânea de poesias para publicação independente.
 
 ---
 
-### 📚 Educação & Comunidade
-* **Graduações:** ADS (Unyleya) e Ciência da Computação (UNIG).
-* **Objetivo:** Transição para ambientes de alta responsabilidade técnica onde a arquitetura de software seja o diferencial.
+### Experiência & Diferenciais
+Minha trajetória no setor de saneamento me conferiu uma base sólida em disciplina operacional e resolução de problemas críticos sob pressão. Busco transpor essa resiliência para o desenvolvimento de software robusto e eficiente.
 
-> "Onde a lógica encontra a lírica."
+[LinkedIn](seu-link) | [E-mail](seu-email)
