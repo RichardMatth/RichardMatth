@@ -1,4 +1,4 @@
-# [Richard Matheus Farias]
+# Richard Matheus Farias
 
 Desenvolvedor focado em lógica de backend e arquitetura de sistemas. Atualmente cursando Ciência da Computação e Análise e Desenvolvimento de Sistemas. 
 
