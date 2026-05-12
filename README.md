@@ -1,77 +1,32 @@
-## Olá! Bem-vindo(a) ao meu perfil 🖐️
+# [Seu Nome] | Software Development & Systems Analysis
 
-### Sobre mim
-Desenvolvedor em formação com foco em engenharia de software, arquitetura e IA aplicada. Atualmente construindo projetos práticos com Python, TypeScript e JS, aplicando princípios de clean code, modularidade e boas práticas de design. Busco estágio/júnior para crescer em ambientes de alta responsabilidade técnica.
+Desenvolvedor focado em lógica de backend, padrões arquiteturais e automação. Atualmente, curso Análise e Desenvolvimento de Sistemas (5º período) e Ciência da Computação, unindo o rigor acadêmico à prática técnica de campo.
 
-#
+### 🛠️ Abordagem Técnica
+Minha base é construída sobre **Python** e **Java**, com foco em código limpo e modularidade. No ecossistema web, priorizo o **JavaScript Vanilla** para entender o funcionamento fundamental da engine antes de aplicar frameworks.
 
+- **Backend & Lógica:** Construção de APIs e automações.
+- **Simulação & Jogos:** Experiência com **Pygame** para lógica de sistemas e física básica.
+- **Arquitetura:** Interesse profundo em Micro-SaaS e modelos de negócios escaláveis.
 
-### Linguagens
-<div style="display: inline_block">
-  <img align="center" alt="HTML5" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="28" title="HTML5">
-  <img align="center" alt="CSS" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width="28" height="28" title="CSS">
-  <img align="center" alt="JavaScript" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="28" height="28" title="JavaScript">
-  <img align="center" alt="Java" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" width="28" height="28" title="JAVA">
-  <img align="center" alt="Python" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="28" height="28" title="Python">
-</div>
+---
 
-### Frameworks
-<div>
-   <img align="center" alt="VueJS" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VueJS-Dark.svg" width="28" height="28" title="VueJS"/>
-  <img align="center" alt="React" src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" width="28" height="28" title="React"/>
-  <img align="center" alt="Spring" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Spring-Dark.svg" width="28" height="28" title="Spring"/>
-  <img align="center" alt="Node.js" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" width="28" height="28" title="NodeJS"/>
-  <img align="center" alt="Angular" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Angular-Dark.svg" width="28" height="28" title="Angular"/>
-</div>
+### 🚀 Projetos em Construção (Foco em Ação)
+*Não apenas código, mas produtos.*
 
-### Banco de Dados
-<div>
-  <img align="center" alt="MySQL" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" width="28" height="28" title="MySQL"/>
-  <img align="center" alt="PostgreSQL" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" width="28" height="28" title="PostgreSQL"/>
-</div>
+1. **Micro-SaaS Identity:** Ferramenta de identidade digital e portfólio focada em conversão e design minimalista.
+2. **Poesia & Algoritmo:** Autor de uma coletânea de poesias que explora a intersecção entre a vivência bruta e a sensibilidade humana (em fase de publicação no KDP).
+3. **Desafios de Engenharia:** Repositório dedicado a padrões de projeto (Design Patterns) aplicados em Java e Python.
 
-### Sistemas Operacionais
-<div style="display: inline_block">
-  <img align="center" alt="Linux" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" width="28" height="28"/>
-  <img align="center" alt="Windows" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg" width="28" height="28"/>
-</div>
+---
 
-### Ferramentas
-<div style="display: inline_block">
-  <img align="center" alt="WordPress" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" width="28" height="28"/>
-  <img align="center" alt="Photoshop" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="28" height="28"/>
-  <img align="center" alt="Godot" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Godot-Dark.svg" width="28" height="28"/>
-  <img align="center" alt="Blender" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg" width="28" height="28"/>
+### 💼 Trajetória & Resiliência
+Minha maturidade profissional foi forjada em ambientes de alta responsabilidade. Atuo como **agente de campo no setor de saneamento**, lidando com procedimentos técnicos críticos e relatórios precisos. Essa experiência me deu a disciplina necessária para resolver problemas sob pressão e a atenção aos detalhes que aplico no meu código.
 
+---
 
-</div>
+### 📚 Educação & Comunidade
+* **Graduações:** ADS (Unyleya) e Ciência da Computação (UNIG).
+* **Objetivo:** Transição para ambientes de alta responsabilidade técnica onde a arquitetura de software seja o diferencial.
 
-
-##
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardMatth&layout=compact&theme=tokyonight" alt="Top Langs" width="300" height="140"> 
-
-##
-
-
-### Cursos Gratuitos 📌
-- [Curso de Banco de Dados (grátis)](https://www.ev.org.br/trilhas-de-conhecimento/banco-de-dados)
-- [Curso de Python (grátis)](https://www.ev.org.br/trilhas-de-conhecimento/linguagem-de-programacao-python)
-- [Cursos diversos](https://ibqp-ava.com/loja_virtual/cursos.php?id=INFORM%C3%81TICA%20E%20TECNOLOGIA)
-- [Cursos diversos](https://ibqp-ava.com/loja_virtual/cursos.php?id=INFORM%C3%81TICA%20E%20TECNOLOGIA)
-- [Plataforma aprenda mais (MEC)](https://aprendamais.mec.gov.br/)
-- [Escola virtual GOV](https://www.escolavirtual.gov.br/)
-- [Curso em vídeo](https://www.cursoemvideo.com/)
-
-
-##
-
-- [Cursos de JAVA, Estrutura de dados e Algoritmo (RECOMENDO FORTEMENTE)](https://loiane.training/)
-
-##
-
-### ENEM 📚
-- [Redação para o Enem](https://apps.univesp.br/enem-escreva-pra-ver/)
-- [Palavra-puxa-palavra](https://apps.univesp.br/palavra-puxa-palavra)
-
-##
+> "Onde a lógica encontra a lírica."
