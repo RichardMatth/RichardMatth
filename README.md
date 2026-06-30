@@ -18,6 +18,7 @@ Minha prática profissional é pautada pelo equilíbrio entre a precisão técni
 ---
 
 ### Minhas Linguagens
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/RichardMatth?theme=dark">
   <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/RichardMatth?theme=dark">
 </picture>
 
