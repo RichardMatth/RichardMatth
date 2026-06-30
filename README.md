@@ -17,4 +17,4 @@ Minha prática profissional é pautada pelo equilíbrio entre a precisão técni
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ---
 
-[LinkedIn](https://www.linkedin.com/in/richardmatheusf) | [E-mail](richardmatheusf80@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/richardmatheusf) | [E-mail](maito:richardmatheusf80@gmail.com)
