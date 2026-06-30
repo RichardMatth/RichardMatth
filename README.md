@@ -17,14 +17,4 @@ Minha prática profissional é pautada pelo equilíbrio entre a precisão técni
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ---
 
-### No que estou trabalhando
-* **Sistemas de Identidade Digital:** Desenvolvimento de soluções de portfólio escaláveis (Micro-SaaS).
-* **Engenharia de Backend:** Aplicação de padrões de projeto e automação de processos.
-* **Literatura Contemporânea:** Finalizando coletânea de poesias para publicação independente.
-
----
-
-### Experiência & Diferenciais
-Minha trajetória no setor de saneamento me conferiu uma base sólida em disciplina operacional e resolução de problemas críticos sob pressão. Busco transpor essa resiliência para o desenvolvimento de software robusto e eficiente.
-
-[LinkedIn](seu-link) | [E-mail](seu-email)
+[LinkedIn](https://www.linkedin.com/in/richardmatheusf) | [E-mail](richardmatheusf80@gmail.com)
