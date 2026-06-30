@@ -16,8 +16,12 @@ Minha prática profissional é pautada pelo equilíbrio entre a precisão técni
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ---
+
 ### Minhas Linguagens
-[Top Langs](https://github-used-languages.vercel.app/RichardMatth)
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/RichardMatth?theme=dark">
+  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/your-github-username">
+</picture>
+
 
 ---
 [LinkedIn](https://www.linkedin.com/in/richardmatheusf) | [E-mail](mailto:richardmatheusf80@gmail.com)
