@@ -1,6 +1,6 @@
 # Richard Matheus Farias
 
-Desenvolvedor focado em lógica de backend e arquitetura de sistemas. Atualmente cursando Ciência da Computação e Análise e Desenvolvimento de Sistemas. 
+Desenvolvedor focado em lógica de backend e arquitetura de sistemas. Atualmente cursando Análise e Desenvolvimento de Sistemas. 
 
 Minha prática profissional é pautada pelo equilíbrio entre a precisão técnica da engenharia e a criatividade da escrita. Além do código, dedico-me à produção literária, explorando a intersecção entre tecnologia e vivência humana.
 
