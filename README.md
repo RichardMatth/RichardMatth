@@ -1,8 +1,5 @@
 # Richard Matheus Farias
-
-Desenvolvedor focado em lógica de backend e arquitetura de sistemas. Atualmente cursando Análise e Desenvolvimento de Sistemas. 
-
-Minha prática profissional é pautada pelo equilíbrio entre a precisão técnica da engenharia e a criatividade da escrita. Além do código, dedico-me à produção literária, explorando a intersecção entre tecnologia e vivência humana.
+Sou desenvolvedor em formação com foco em engenharia de software, arquitetura e resolução estruturada de problemas. Trabalho diariamente para construir uma base sólida em lógica, estruturas de dados, boas práticas e modelagem de sistemas. Áreas que considero essenciais para um profissional consistente e preparado para o futuro.
 
 ### Stack Técnica
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
