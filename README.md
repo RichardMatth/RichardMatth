@@ -1,99 +1,99 @@
 # `RICHARD MATHEUS`
-### SOFTWARE DEVELOPER · BACKEND ENGINEERING · LOCAL AI
+### DESENVOLVEDOR DE SOFTWARE · ENGENHARIA BACKEND · IA LOCAL
 
 ```text
-> SYSTEM STATUS: ONLINE
-> CURRENT ROLE: SOFTWARE DEVELOPER
-> PRIMARY DOMAIN: SOFTWARE ENGINEERING
-> INTERESTS: SYSTEMS · BACKEND · ARTIFICIAL INTELLIGENCE
+> STATUS DO SISTEMA: ONLINE
+> FUNÇÃO ATUAL: DESENVOLVEDOR DE SOFTWARE
+> ÁREA PRINCIPAL: ENGENHARIA DE SOFTWARE
+> INTERESSES: SISTEMAS · BACKEND · INTELIGÊNCIA ARTIFICIAL
 ```
 
 ---
 
-## `01 / WHOAMI`
+## `01 / QUEM SOU`
 
-Software developer focused on **Backend Engineering, Systems Programming and Software Architecture**.
+Desenvolvedor de software com foco em **Engenharia Backend, Programação de Sistemas e Arquitetura de Software**.
 
-Interested in understanding how software works beyond the interface — from data structures and algorithms to system design, performance, databases and artificial intelligence.
+Interessado em compreender como o software funciona além da interface — desde estruturas de dados e algoritmos até design de sistemas, desempenho, bancos de dados e inteligência artificial.
 
-Currently exploring **Rust and local AI infrastructure**, developing projects that combine software engineering, automation and computational efficiency.
+Atualmente, explorando **Rust e infraestrutura de IA local**, desenvolvendo projetos que combinam engenharia de software, automação e eficiência computacional.
 
-My approach is simple:
+Minha abordagem é simples:
 
-> Understand the system. Control the complexity. Build the solution.
+> Compreender o sistema. Controlar a complexidade. Construir a solução.
 
 ---
 
-## `02 / CORE INTERESTS`
+## `02 / PRINCIPAIS INTERESSES`
 
 ```text
-[01] BACKEND ENGINEERING
-[02] SOFTWARE ARCHITECTURE
-[03] SYSTEMS PROGRAMMING
-[04] ARTIFICIAL INTELLIGENCE
-[05] DATABASE ENGINEERING
-[06] LOCAL LLM INFRASTRUCTURE
-[07] APPLICATION DEVELOPMENT
+[01] ENGENHARIA BACKEND
+[02] ARQUITETURA DE SOFTWARE
+[03] PROGRAMAÇÃO DE SISTEMAS
+[04] INTELIGÊNCIA ARTIFICIAL
+[05] ENGENHARIA DE BANCO DE DADOS
+[06] INFRAESTRUTURA DE LLMs LOCAIS
+[07] DESENVOLVIMENTO DE APLICAÇÕES
 ```
 
 ---
 
-## `03 / SELECTED PROJECTS`
+## `03 / PROJETOS EM DESTAQUE`
 
 ### `01 — JARVIS`
-**LOCAL AI · SYSTEM ARCHITECTURE · RUST**
+**IA LOCAL · ARQUITETURA DE SISTEMAS · RUST**
 
-A local-first personal AI ecosystem focused on privacy, modularity and computational efficiency.
+Ecossistema pessoal de inteligência artificial com execução local, desenvolvido com foco em privacidade, modularidade e eficiência computacional.
 
-Designed to integrate local language models, persistent memory, retrieval systems and desktop interaction.
+Projetado para integrar modelos de linguagem locais, memória persistente, sistemas de recuperação de informações e interação com o desktop.
 
-**Technical scope:**
-- Rust-based desktop application.
-- Tauri and TypeScript interface.
-- Local inference with llama.cpp.
-- SQLite persistent memory.
-- ChromaDB and RAG architecture.
-- Modular AI orchestration.
+**Escopo técnico:**
+- Aplicação desktop desenvolvida em Rust.
+- Interface com Tauri e TypeScript.
+- Inferência local com llama.cpp.
+- Memória persistente com SQLite.
+- ChromaDB e arquitetura RAG.
+- Orquestração modular de IA.
 
-`STATUS: ACTIVE DEVELOPMENT`
+`STATUS: EM DESENVOLVIMENTO`
 
 ---
 
 ### `02 — STEC ENGENHARIA`
-**WEB DEVELOPMENT · FRONTEND**
+**DESENVOLVIMENTO WEB · FRONTEND**
 
-Institutional website developed for an engineering company.
+Site institucional desenvolvido para uma empresa de engenharia.
 
-**Technologies:**
+**Tecnologias:**
 - HTML5
 - CSS3
 - JavaScript
 - Sass / SCSS
-- Git and GitHub
+- Git e GitHub
 
-`STATUS: PROJECT DEVELOPMENT`
+`STATUS: PROJETO DESENVOLVIDO`
 
 ---
 
-### `03 — OPERATIONAL KNOWLEDGE PWA`
-**PROGRESSIVE WEB APP · KNOWLEDGE ACCESS**
+### `03 — PWA DE CONHECIMENTO OPERACIONAL`
+**PROGRESSIVE WEB APP · ACESSO À INFORMAÇÃO**
 
-A Progressive Web Application developed to facilitate access to operational knowledge and documentation.
+Aplicação web progressiva desenvolvida para facilitar o acesso a conteúdos operacionais e documentações.
 
-Designed to make technical information more accessible to collaborators.
+Projetada para tornar informações técnicas mais acessíveis aos colaboradores.
 
-**Technologies:**
+**Tecnologias:**
 - JavaScript
 - HTML5
 - CSS3
-- Progressive Web App concepts
+- Conceitos de Progressive Web App
 - GitHub Pages
 
 ---
 
-## `04 / TECHNOLOGY STACK`
+## `04 / TECNOLOGIAS E FERRAMENTAS`
 
-### LANGUAGES
+### LINGUAGENS
 
 ![Rust](https://img.shields.io/badge/Rust-0A0A0A?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=white)
@@ -101,7 +101,7 @@ Designed to make technical information more accessible to collaborators.
 ![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-0A0A0A?style=flat-square&logo=openjdk&logoColor=white)
 
-### BACKEND & SYSTEMS
+### BACKEND E SISTEMAS
 
 ![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=flat-square&logo=node.js&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-0A0A0A?style=flat-square&logo=rust&logoColor=white)
@@ -116,7 +116,7 @@ Designed to make technical information more accessible to collaborators.
 ![React](https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-0A0A0A?style=flat-square&logo=vite&logoColor=white)
 
-### DATABASES & AI
+### BANCOS DE DADOS E IA
 
 ![SQLite](https://img.shields.io/badge/SQLite-0A0A0A?style=flat-square&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=flat-square&logo=postgresql&logoColor=white)
@@ -125,7 +125,7 @@ Designed to make technical information more accessible to collaborators.
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-0A0A0A?style=flat-square&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-0A0A0A?style=flat-square&logoColor=white)
 
-### TOOLS & ENVIRONMENT
+### FERRAMENTAS E AMBIENTE
 
 ![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=flat-square&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-0A0A0A?style=flat-square&logo=git&logoColor=white)
@@ -134,10 +134,10 @@ Designed to make technical information more accessible to collaborators.
 
 ---
 
-## `05 / GITHUB TELEMETRY`
+## `05 / MÉTRICAS DO GITHUB`
 
 <p align="center">
-  <sub>CONTRIBUTIONS · CODE DISTRIBUTION · DEVELOPMENT ACTIVITY</sub>
+  <sub>CONTRIBUIÇÕES · DISTRIBUIÇÃO DE CÓDIGO · ATIVIDADE DE DESENVOLVIMENTO</sub>
 </p>
 
 <p align="center">
@@ -150,61 +150,61 @@ Designed to make technical information more accessible to collaborators.
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=RichardMatth&bg_color=00000000&color=808080&line=808080&point=ffffff&area=true&area_color=808080&hide_border=true&radius=0&custom_title=CONTRIBUTION%20ACTIVITY" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=RichardMatth&bg_color=00000000&color=808080&line=808080&point=ffffff&area=true&area_color=808080&hide_border=true&radius=0&custom_title=ATIVIDADE%20DE%20CONTRIBUIÇÃO" />
 </p>
 
 ---
 
-## `06 / ENGINEERING EXPERIENCE`
+## `06 / EXPERIÊNCIA EM DESENVOLVIMENTO`
 
 **STEC ENGENHARIA**  
-`WEB DEVELOPMENT`
+`DESENVOLVIMENTO WEB`
 
-Development of an institutional website, working with frontend technologies, styling architecture and version control.
+Desenvolvimento de site institucional, trabalhando com tecnologias frontend, arquitetura de estilos e controle de versão.
 
-**INDEPENDENT SOFTWARE DEVELOPMENT**  
-`2022 — PRESENT`
+**DESENVOLVIMENTO INDEPENDENTE DE SOFTWARE**  
+`2022 — PRESENTE`
 
-Personal software projects, programming studies and experimentation with different technologies, architectures and development approaches.
-
----
-
-## `07 / EDUCATION & TECHNICAL STUDIES`
-
-**SYSTEMS ANALYSIS AND DEVELOPMENT**  
-Higher education — 5th semester completed; currently paused.
-
-**ADDITIONAL TECHNICAL STUDIES**
-- Algorithms and Programming Logic.
-- Python — Basic to Advanced.
-- Cloud Development and DevOps.
-- AI Agents and Automation.
+Desenvolvimento de projetos pessoais, estudos de programação e experimentação com diferentes tecnologias, arquiteturas e abordagens de desenvolvimento.
 
 ---
 
-## `08 / CURRENT FOCUS`
+## `07 / FORMAÇÃO E ESTUDOS TÉCNICOS`
+
+**ANÁLISE E DESENVOLVIMENTO DE SISTEMAS**  
+Ensino superior — 5º período cursado; atualmente pausado.
+
+**ESTUDOS TÉCNICOS COMPLEMENTARES**
+- Algoritmos e Lógica de Programação.
+- Python — do Básico ao Avançado.
+- Desenvolvimento em Cloud e DevOps.
+- Agentes de IA e Automação.
+
+---
+
+## `08 / FOCO ATUAL`
 
 ```text
-> Deepening BACKEND ENGINEERING fundamentals
-> Exploring RUST and SYSTEMS PROGRAMMING
-> Improving SOFTWARE ARCHITECTURE knowledge
-> Developing LOCAL AI infrastructure
-> Exploring RAG and RETRIEVAL SYSTEMS
-> Strengthening COMPUTER SCIENCE fundamentals
+> Aprofundamento em fundamentos de ENGENHARIA BACKEND
+> Exploração de RUST e PROGRAMAÇÃO DE SISTEMAS
+> Evolução em ARQUITETURA DE SOFTWARE
+> Desenvolvimento de infraestrutura de IA LOCAL
+> Exploração de RAG e SISTEMAS DE RECUPERAÇÃO
+> Fortalecimento dos fundamentos de CIÊNCIA DA COMPUTAÇÃO
 ```
 
 ---
 
 <p align="center">
-  <sub>END OF TRANSMISSION</sub>
+  <sub>FIM DA TRANSMISSÃO</sub>
   <br/><br/>
-  <strong>UNDERSTAND THE SYSTEM.</strong>
+  <strong>COMPREENDA O SISTEMA.</strong>
   <br/>
-  <strong>CONTROL THE COMPLEXITY.</strong>
+  <strong>CONTROLE A COMPLEXIDADE.</strong>
   <br/>
-  <strong>BUILD THE SOLUTION.</strong>
+  <strong>CONSTRUA A SOLUÇÃO.</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-0A0A0A?style=flat-square&labelColor=0A0A0A&color=555555" />
+  <img src="https://img.shields.io/badge/SISTEMA-ONLINE-0A0A0A?style=flat-square&labelColor=0A0A0A&color=555555" />
 </p>
