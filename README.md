@@ -38,6 +38,25 @@ Minha abordagem é simples:
 
 ---
 
+## `04 / TECNOLOGIAS E FERRAMENTAS`
+
+### LINGUAGENS
+
+![Rust](https://img.shields.io/badge/Rust-0A0A0A?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0A0A0A?style=flat-square&logo=openjdk&logoColor=white)
+
+### BACKEND E SISTEMAS
+
+![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=flat-square&logo=node.js&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-0A0A0A?style=flat-square&logo=rust&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-0A0A0A?style=flat-square&logo=tauri&logoColor=white)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-0A0A0A?style=flat-square&logoColor=white)
+
+---
+
 ## `03 / PROJETOS EM DESTAQUE`
 
 ### `01 — JARVIS`
@@ -90,23 +109,6 @@ Projetada para tornar informações técnicas mais acessíveis aos colaboradores
 - GitHub Pages
 
 ---
-
-## `04 / TECNOLOGIAS E FERRAMENTAS`
-
-### LINGUAGENS
-
-![Rust](https://img.shields.io/badge/Rust-0A0A0A?style=flat-square&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-0A0A0A?style=flat-square&logo=openjdk&logoColor=white)
-
-### BACKEND E SISTEMAS
-
-![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=flat-square&logo=node.js&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-0A0A0A?style=flat-square&logo=rust&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-0A0A0A?style=flat-square&logo=tauri&logoColor=white)
-![llama.cpp](https://img.shields.io/badge/llama.cpp-0A0A0A?style=flat-square&logoColor=white)
 
 ### FRONTEND
 
