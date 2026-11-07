@@ -39,20 +39,59 @@ Minha abordagem é simples:
 
 ## `04 / TECNOLOGIAS E FERRAMENTAS`
 
-### LINGUAGENS
+### LINGUAGENS DE PROGRAMAÇÃO
 
 ![Rust](https://img.shields.io/badge/Rust-0A0A0A?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-0A0A0A?style=flat-square&logo=openjdk&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-0A0A0A?style=flat-square&logo=lua&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0A0A0A?style=flat-square&logoColor=white)
 
-### BACKEND E SISTEMAS
+### BACKEND, FRAMEWORKS E SISTEMAS
 
 ![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=flat-square&logo=node.js&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-0A0A0A?style=flat-square&logo=rust&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-0A0A0A?style=flat-square&logo=spring&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-0A0A0A?style=flat-square&logo=tauri&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-0A0A0A?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-0A0A0A?style=flat-square&logo=vite&logoColor=white)
+
+### PYTHON E ECOSSISTEMA
+
+![Tkinter](https://img.shields.io/badge/Tkinter-0A0A0A?style=flat-square&logo=python&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-0A0A0A?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-0A0A0A?style=flat-square&logo=numpy&logoColor=white)
+![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-0A0A0A?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0A0A0A?style=flat-square&logoColor=white)
+
+### BANCOS DE DADOS E RECUPERAÇÃO DE INFORMAÇÕES
+
+![MySQL](https://img.shields.io/badge/MySQL-0A0A0A?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-0A0A0A?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-0A0A0A?style=flat-square&logo=redis&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0A0A0A?style=flat-square&logoColor=white)
+
+### INTELIGÊNCIA ARTIFICIAL E INFERÊNCIA LOCAL
+
 ![llama.cpp](https://img.shields.io/badge/llama.cpp-0A0A0A?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0A0A0A?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0A0A0A?style=flat-square&logoColor=white)
+
+### SISTEMAS OPERACIONAIS E FERRAMENTAS
+
+![Debian](https://img.shields.io/badge/Debian-0A0A0A?style=flat-square&logo=debian&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0A0A0A?style=flat-square&logo=kalilinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-0A0A0A?style=flat-square&logo=ubuntu&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-0A0A0A?style=flat-square&logo=linuxmint&logoColor=white)
+![Pop!_OS](https://img.shields.io/badge/Pop!_OS-0A0A0A?style=flat-square&logo=popos&logoColor=white)
+![CachyOS](https://img.shields.io/badge/CachyOS-0A0A0A?style=flat-square&logo=linux&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-0A0A0A?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0A0A0A?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
