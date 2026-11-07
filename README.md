@@ -25,7 +25,7 @@ Minha abordagem é simples:
 
 ## `04 / TECNOLOGIAS E FERRAMENTAS`
 
-### LINGUAGENS
+##### *LINGUAGENS*
 
 ![Rust](https://img.shields.io/badge/Rust-0A0A0A?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=white)
@@ -35,7 +35,7 @@ Minha abordagem é simples:
 ![Lua](https://img.shields.io/badge/Lua-0A0A0A?style=flat-square&logo=lua&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-0A0A0A?style=flat-square&logoColor=white)
 
-### FRAMEWORKS E TECNOLOGIAS
+##### *FRAMEWORKS E TECNOLOGIAS*
 
 ![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=flat-square&logo=node.js&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-0A0A0A?style=flat-square&logo=spring&logoColor=white)
@@ -48,10 +48,11 @@ Minha abordagem é simples:
 ![NumPy](https://img.shields.io/badge/NumPy-0A0A0A?style=flat-square&logo=numpy&logoColor=white)
 ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-0A0A0A?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-0A0A0A?style=flat-square&logoColor=white)
-![llama.cpp](https://img.shields.io/badge/llama.cpp-0A0A0A?style=flat-square&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-0A0A0A?style=flat-square&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0A0A0A?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0A0A0A?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-0A0A0A?style=flat-square&logo=sass&logoColor=white)
 
-### BANCOS DE DADOS
+##### *BANCOS DE DADOS*
 
 ![MySQL](https://img.shields.io/badge/MySQL-0A0A0A?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-0A0A0A?style=flat-square&logo=sqlite&logoColor=white)
@@ -59,40 +60,11 @@ Minha abordagem é simples:
 ![Redis](https://img.shields.io/badge/Redis-0A0A0A?style=flat-square&logo=redis&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-0A0A0A?style=flat-square&logoColor=white)
 
-### SISTEMAS OPERACIONAIS E FERRAMENTAS
+##### *SISTEMAS OPERACIONAIS E FERRAMENTAS*
 
 ![Debian](https://img.shields.io/badge/Debian-0A0A0A?style=flat-square&logo=debian&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-0A0A0A?style=flat-square&logo=kalilinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-0A0A0A?style=flat-square&logo=ubuntu&logoColor=white)
-![CachyOS](https://img.shields.io/badge/CachyOS-0A0A0A?style=flat-square&logo=linux&logoColor=white)
-![Pop!_OS](https://img.shields.io/badge/Pop!_OS-0A0A0A?style=flat-square&logo=popos&logoColor=white)
-![Linux Mint](https://img.shields.io/badge/Linux_Mint-0A0A0A?style=flat-square&logo=linuxmint&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0A0A0A?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0A0A0A?style=flat-square&logo=visualstudiocode&logoColor=white)
-
----
-
-### FRONTEND
-
-![HTML5](https://img.shields.io/badge/HTML5-0A0A0A?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-0A0A0A?style=flat-square&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-0A0A0A?style=flat-square&logo=sass&logoColor=white)
-![React](https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-0A0A0A?style=flat-square&logo=vite&logoColor=white)
-
-### BANCOS DE DADOS E IA
-
-![SQLite](https://img.shields.io/badge/SQLite-0A0A0A?style=flat-square&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-0A0A0A?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=flat-square&logo=mongodb&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-0A0A0A?style=flat-square&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-0A0A0A?style=flat-square&logoColor=white)
-
-### FERRAMENTAS E AMBIENTE
-
-![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=flat-square&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-0A0A0A?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0A0A0A?style=flat-square&logo=visualstudiocode&logoColor=white)
