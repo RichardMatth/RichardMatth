@@ -92,31 +92,12 @@ Minha abordagem é simples:
 
 ---
 
-## `06 / EXPERIÊNCIA EM DESENVOLVIMENTO`
-
-**STEC ENGENHARIA**  
-`DESENVOLVIMENTO WEB`
-
-Desenvolvimento de site institucional, trabalhando com tecnologias frontend, arquitetura de estilos e controle de versão.
-
-**DESENVOLVIMENTO INDEPENDENTE DE SOFTWARE**  
-`2022 — PRESENTE`
-
-Desenvolvimento de projetos pessoais, estudos de programação e experimentação com diferentes tecnologias, arquiteturas e abordagens de desenvolvimento.
-
----
-
 ## `07 / FORMAÇÃO E ESTUDOS TÉCNICOS`
 
 **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS**  
 Ensino superior — 5º período cursado; atualmente pausado.
 
-**ESTUDOS TÉCNICOS COMPLEMENTARES**
-- Algoritmos e Lógica de Programação.
-- Python — do Básico ao Avançado.
-- Desenvolvimento em Cloud e DevOps.
-- Agentes de IA e Automação.
-
+**Objetivos: Atualmente mantendo foco em vestibulares para ingressar em Ciência da Computação**  
 ---
 
 ## `08 / FOCO ATUAL`
