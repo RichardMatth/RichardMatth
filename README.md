@@ -13,7 +13,7 @@
 
 Desenvolvedor de software com foco em **Engenharia Backend, Programação de Sistemas e Arquitetura de Software**.
 
-Interessado em compreender como o software funciona além da interface — desde estruturas de dados e algoritmos até design de sistemas, desempenho, bancos de dados e inteligência artificial.
+Interessado em compreender como o software funciona além da interface, desde estruturas de dados e algoritmos até design de sistemas, desempenho, bancos de dados e inteligência artificial.
 
 Atualmente, explorando **Rust e infraestrutura de IA local**, desenvolvendo projetos que combinam engenharia de software, automação e eficiência computacional.
 
